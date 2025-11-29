@@ -1,0 +1,5 @@
+{
+  "name": "GitLab Wiki Sync & AI Editor",
+  "description": "A collaborative Markdown editor that syncs directly with GitLab Wikis, featuring Gemini-powered AI writing assistance.",
+  "requestFramePermissions": []
+}
